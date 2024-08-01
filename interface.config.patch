@@ -1,0 +1,8 @@
+[
+    { "op" : "replace", "path" : "/mainBar/collections/base", "value" : "/interface/unibar.png:base" },
+    { "op" : "replace", "path" : "/mainBar/collections/hover", "value" : "/interface/unibar.png:hover" },
+    { "op" : "replace", "path" : "/mainBar/collections/open", "value" : "/interface/unibar.png:open" },
+    { "op" : "replace", "path" : "/mainBar/collections/openHover", "value" : "/interface/unibar.png:openHover" },
+
+    { "op" : "replace", "path" : "/cursorTooltip/collectionsText", "value" : "Unibar" }
+]

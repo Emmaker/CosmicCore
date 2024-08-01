@@ -1,0 +1,10 @@
+{
+  "author" : "Emmaker",
+  "friendlyName" : "CosmicCore",
+  "name" : "CosmicCore",
+  "includes" : [ "base", "opensb_base" ],
+  "scripts" : {
+    "postLoad" : [ "/scripts/assets/cc_postload.lua" ]
+  },
+  "priority" : -9999
+}

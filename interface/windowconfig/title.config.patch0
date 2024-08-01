@@ -1,0 +1,4 @@
+[
+    { "op" : "replace", "path" : "/mainMenuButtons/5/button", "value" : "/interface/title/mods_alt.png" },
+    { "op" : "replace", "path" : "/mainMenuButtons/5/hover", "value" : "/interface/title/modsOver_alt.png" }
+]
